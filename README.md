@@ -17,7 +17,7 @@ I'm a self-taught hobbyist from **Islamabad, Pakistan** who got pulled into the 
 
 ## 🛠️ Projects
 
-### 🛡️ [cowrie-soc-monitor](https://github.com/ahmadrasheed1358-design/cowrie-soc-monitor)
+### 🛡️ [cowrie-soc-monitor](https://github.com/tjxahmad/cowrie-soc-monitor)
 Real-time threat intelligence monitor for Cowrie SSH honeypots.
 
 Built this to monitor my own VPS honeypot. It watches attackers in real-time, fingerprints their SSH clients, extracts malware IOCs, tracks crypto wallets, and plots every attack on a live world map — all piped to Discord.
@@ -41,7 +41,7 @@ Built this to monitor my own VPS honeypot. It watches attackers in real-time, fi
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ahmadrasheed1358-design&color=red&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=tjxahmad&color=red&style=flat" alt="profile views" />
 </p>
 
 <p align="center"><i>Building in public. Learning in the open. One rabbit hole at a time. 🐇</i></p>
